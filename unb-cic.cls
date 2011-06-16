@@ -441,7 +441,7 @@
 \DeclareOptionX*{\PassOptionsToClass{\CurrentOption}{report}}
 
 %default options
-\ExecuteOptionsX{singlespacing,hyperref,prestyle=plain,textstyle=plain,chapstyle=plain}
+\ExecuteOptionsX{doublespacing,hyperref,prestyle=plain,textstyle=plain,chapstyle=plain}
 \ProcessOptionsX\relax
 
 \newcommand{\ifhyperref}[2]{\if@ForScreenView #1\else #2\fi}
