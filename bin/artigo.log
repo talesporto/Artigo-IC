@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.27)  15 JUN 2011 20:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.27)  15 JUN 2011 22:07
 entering extended mode
  %&-line parsing enabled.
 **artigo.tex
@@ -492,7 +492,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.44 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? r
 OK, entering \nonstopmode...
@@ -632,7 +632,7 @@ LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
 LaTeX Font Warning: Font shape `T1/ua1/bx/n' in size <20> not available
 (Font)              size <20.74> substituted on input line 21.
 
-<positivo_cor.pdf, id=27, 119.44624pt x 60.225pt>
+<positivo_cor.pdf, id=23, 119.44624pt x 60.225pt>
 File: positivo_cor.pdf Graphic file (type pdf)
  <use positivo_cor.pdf>
 \len@lskipoffset=\skip48
@@ -692,9 +692,28 @@ or  <return>  to continue without it.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./positivo_cor.pdf>]
 Cap\'{\i }tulo 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 34.
+! Package inputenc Error: Unicode char \u8:ẽ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...}). Este episódio tematiza as discussoẽ
+                                                  s sobre a formação da op...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package natbib Warning: Citation `eco' on page 1 undefined on input line 32.
 
 [1
 
@@ -718,7 +737,11 @@ Cap\'{\i }tulo 4.
 ) [5
 
 
-] (bin/artigo.aux)
+]
+
+Package natbib Warning: There were undefined citations.
+
+(bin/artigo.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
@@ -729,24 +752,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \iffalse on line 454 was incomplete) 
 Here is how much of TeX's memory you used:
- 6690 strings out of 495041
- 91685 string characters out of 1181897
- 179678 words of memory out of 3000000
- 9731 multiletter control sequences out of 15000+50000
- 11563 words of font info for 25 fonts, out of 3000000 for 9000
+ 6709 strings out of 495041
+ 91865 string characters out of 1181897
+ 177678 words of memory out of 3000000
+ 9744 multiletter control sequences out of 15000+50000
+ 13990 words of font info for 33 fonts, out of 3000000 for 9000
  30 hyphenation exceptions out of 8191
- 45i,5n,69p,833b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,5n,69p,644b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts
 /enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-sup
-er/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></us
+er/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfti1200.pfb>
-Output written on bin/artigo.pdf (6 pages, 173177 bytes).
+type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfti1200.pfb>
+Output written on bin/artigo.pdf (6 pages, 162016 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
