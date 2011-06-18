@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  15 JUN 2011 21:48
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  17 JUN 2011 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,7 +499,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.83 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? r
 OK, entering \nonstopmode...
@@ -729,8 +729,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
 
 ! Undefined control sequence.
-l.41 		\item O \texit
-                     {mass media} dirige-se a um publico heterogênio e espe...
+l.43 		\item O \texit
+                     {mass media} dirige-se a um público incônscio de si m...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -738,8 +738,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.46 ...amente popular, mas os produtos dos \texit
-                                                  {media mass} – impostos ...
+l.44 		\item O \texit
+                     {mass media} tende a provocar emoções intensas e não...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 		\item O \texit
+                     {mass media} colocado dentro de um circuito comercial, ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 		 \item O \texit
+                      {mass media} encorajam uma visão passiva e acrítica ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -749,12 +767,22 @@ and I'll forget about whatever was undefined.
 [3
 
 ]
+! Undefined control sequence.
+l.48 		 \item O \texit
+                      {mass media} tende a impor símbolos e mitos de fácil...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4]
 Cap\'{\i }tulo 3.
-[4
+[5
 
 ]
 Cap\'{\i }tulo 4.
-[5
+[6
 
 ] (bin/artigo.bbl (bin/artigo.brf)
 \tf@brf=\write4
@@ -790,15 +818,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
- [6
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+ [7
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (bin/artigo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
 Package rerunfilecheck Info: File `artigo.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 Package rerunfilecheck Info: File `artigo.brf' has not changed.
@@ -811,17 +839,17 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 64.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  )
 (\end occurred when \iffalse on line 454 was incomplete) 
 Here is how much of TeX's memory you used:
- 7626 strings out of 493763
- 107219 string characters out of 3144954
+ 7627 strings out of 493763
+ 107225 string characters out of 3144954
  205998 words of memory out of 3000000
  10801 multiletter control sequences out of 15000+200000
  11820 words of font info for 26 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 43i,5n,69p,833b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,5n,69p,833b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/201
 0/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2010/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/t
@@ -833,10 +861,10 @@ t/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2010/texmf-dist/
 fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2010/texmf-dist/fo
 nts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2010/texmf-dist/font
 s/type1/public/cm-super/sfti1200.pfb>
-Output written on bin/artigo.pdf (7 pages, 173249 bytes).
+Output written on bin/artigo.pdf (8 pages, 175290 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
