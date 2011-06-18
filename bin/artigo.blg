@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: bin/artigo.aux
 The style file: plain.bst
 Database file #1: bibliografia.bib
-Warning--empty year in richard
-You've used 5 entries,
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            521 strings with 4659 characters,
-and the built_in function-call counts, 1038 in all, are:
-= -- 96
-> -- 35
+            517 strings with 4500 characters,
+and the built_in function-call counts, 833 in all, are:
+= -- 77
+> -- 28
 < -- 0
-+ -- 16
-- -- 10
-* -- 44
-:= -- 194
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 17
++ -- 13
+- -- 8
+* -- 34
+:= -- 156
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 50
-empty$ -- 93
-format.name$ -- 10
-if$ -- 208
+cite$ -- 4
+duplicate$ -- 40
+empty$ -- 76
+format.name$ -- 8
+if$ -- 168
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 4
-newline$ -- 28
-num.names$ -- 10
-pop$ -- 30
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 24
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 12
 quote$ -- 0
-skip$ -- 29
+skip$ -- 23
 stack$ -- 0
-substring$ -- 26
-swap$ -- 7
+substring$ -- 21
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 18
-warning$ -- 1
-while$ -- 10
-width$ -- 6
-write$ -- 49
-(There was 1 warning)
+type$ -- 14
+warning$ -- 0
+while$ -- 8
+width$ -- 5
+write$ -- 40
