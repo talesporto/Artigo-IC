@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  17 JUN 2011 11:00
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.25)  18 JUN 2011 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -499,7 +499,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.87 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? r
 OK, entering \nonstopmode...
@@ -648,7 +648,7 @@ LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
 LaTeX Font Warning: Font shape `T1/ua1/bx/n' in size <20> not available
 (Font)              size <20.74> substituted on input line 21.
 
-<positivo_cor.pdf, id=28, 119.44624pt x 60.225pt>
+<positivo_cor.pdf, id=24, 119.44624pt x 60.225pt>
 File: positivo_cor.pdf Graphic file (type pdf)
  <use positivo_cor.pdf>
 Package pdftex.def Info: positivo_cor.pdf used on input line 21.
@@ -711,25 +711,40 @@ or  <return>  to continue without it.
 {/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./posit
 ivo_cor.pdf>]
 Cap\'{\i }tulo 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+
+! Package inputenc Error: Unicode char \u8:ẽ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...s}. Este episódio tematiza as discussoẽ
+                                                  s sobre a formação da op...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 [1
 
 
 ]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 35.
-
-[2]
 Cap\'{\i }tulo 2.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
 (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 
 ! Undefined control sequence.
-l.43 		\item O \texit
+l.40 		\item O \texit
                      {mass media} dirige-se a um público incônscio de si m...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -738,7 +753,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.44 		\item O \texit
+l.41 		\item O \texit
                      {mass media} tende a provocar emoções intensas e não...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -747,7 +762,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.45 		\item O \texit
+l.42 		\item O \texit
                      {mass media} colocado dentro de um circuito comercial, ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -756,7 +771,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.46 		 \item O \texit
+l.43 		 \item O \texit
                       {mass media} encorajam uma visão passiva e acrítica ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -764,11 +779,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[3
+[2
 
 ]
 ! Undefined control sequence.
-l.48 		 \item O \texit
+l.45 		 \item O \texit
                       {mass media} tende a impor símbolos e mitos de fácil...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -776,13 +791,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[4]
+[3]
 Cap\'{\i }tulo 3.
-[5
+[4
 
 ]
 Cap\'{\i }tulo 4.
-[6
+[5
 
 ] (bin/artigo.bbl (bin/artigo.brf)
 \tf@brf=\write4
@@ -817,16 +832,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
 -gra-dos".
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\T1/cmr/m/n/12 Wikipedia.  \T1/cmr/m/it/12 Lista de Ep�-so-dios dos Simp-sons
+\T1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (5.82347pt too wide) in paragraph at lines 25--25
+\T1/cmr/m/n/12 http://pt.wikipedia.org/wiki/Anexo:Lista_de_epis%C3%B3dios_de_Th
+e_Simpsons.
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+<argument> ...pt.wikipedia.org/wiki/The_Simpsons##
+                                                  Personagens. 
+l.30 
+     
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (64.20003pt too wide) in paragraph at lines 30--30
+[]\T1/cmr/m/n/12 Wikipedia.  \T1/cmr/m/it/12 Per-so-na-gens dos Simp-sons\T1/cm
+r/m/n/12 .  http://pt.wikipedia.org/wiki/The$[]\OML/cmm/m/it/12 impsonsPersonag
+ens: []\OT1/cmr/m/n/12 1[][]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.30 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
- [7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
+ [6
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (bin/artigo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `artigo.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 Package rerunfilecheck Info: File `artigo.brf' has not changed.
@@ -839,32 +921,35 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  )
 (\end occurred when \iffalse on line 454 was incomplete) 
 Here is how much of TeX's memory you used:
- 7627 strings out of 493763
- 107225 string characters out of 3144954
- 205998 words of memory out of 3000000
- 10801 multiletter control sequences out of 15000+200000
- 11820 words of font info for 26 fonts, out of 3000000 for 9000
+ 7657 strings out of 493763
+ 107713 string characters out of 3144954
+ 206016 words of memory out of 3000000
+ 10824 multiletter control sequences out of 15000+200000
+ 13990 words of font info for 33 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 43i,5n,69p,833b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,5n,69p,672b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/201
 0/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2010/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2010/tex
-mf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2010/texmf
--dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2010/texmf-d
-ist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2010/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2010/texmf-dist/
-fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2010/texmf-dist/fo
-nts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2010/texmf-dist/font
-s/type1/public/cm-super/sfti1200.pfb>
-Output written on bin/artigo.pdf (8 pages, 175290 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2010/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2010/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2010/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/texmf-
+dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2010/texmf-di
+st/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2010/texmf-dist
+/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2010/texmf-dist/f
+onts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2010/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2010/texmf-dist/fonts
+/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2010/texmf-dist/fonts/t
+ype1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
+e1/public/cm-super/sfti1200.pfb>
+Output written on bin/artigo.pdf (7 pages, 191221 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
+ 149 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
  19 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

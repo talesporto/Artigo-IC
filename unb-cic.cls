@@ -519,9 +519,9 @@
   \vspace*{50\p@}%
   {\parindent \z@ \chapteralign \normalfont
     \ifnum \c@secnumdepth >\m@ne
-        \huge\bfseries \@chapapp\space \thechapter
+        %\huge\bfseries \@chapapp\space \thechapter
         \par\nobreak
-        \vskip 20\p@
+        %\vskip 20\p@
     \fi
     \interlinepenalty\@M
     \chapterformat #1\par\nobreak
