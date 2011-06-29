@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.27)  29 JUN 2011 19:59
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.4.27)  29 JUN 2011 20:17
 entering extended mode
  %&-line parsing enabled.
 **artigo.tex
@@ -492,7 +492,7 @@ See the natbib package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 ...mand\NAT@force@numbers{}\NAT@force@numbers
+l.63 ...mand\NAT@force@numbers{}\NAT@force@numbers
                                                   
 ? r
 OK, entering \nonstopmode...
@@ -709,15 +709,15 @@ Cap\'{\i }tulo 2.
 Cap\'{\i }tulo 3.
 [7
 
-]
+] [8]
 Cap\'{\i }tulo 4.
-[8
+[9
 
 ] (bin/artigo.bbl (bin/artigo.brf)
 \tf@brf=\write4
 \openout4 = `artigo.brf'.
 
-) [9
+) [10
 
 
 ] (bin/artigo.aux)
@@ -731,23 +731,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \iffalse on line 454 was incomplete) 
 Here is how much of TeX's memory you used:
- 6721 strings out of 495041
- 92028 string characters out of 1181897
+ 6733 strings out of 495041
+ 92134 string characters out of 1181897
  188669 words of memory out of 3000000
- 9747 multiletter control sequences out of 15000+50000
- 14074 words of font info for 33 fonts, out of 3000000 for 9000
+ 9756 multiletter control sequences out of 15000+50000
+ 14758 words of font info for 34 fonts, out of 3000000 for 9000
  30 hyphenation exceptions out of 8191
  45i,5n,69p,1125b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts
 /enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-sup
-er/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on bin/artigo.pdf (10 pages, 155903 bytes).
+er/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfti1200.pfb>
+Output written on bin/artigo.pdf (11 pages, 195220 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
