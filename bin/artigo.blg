@@ -3,44 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: bin/artigo.aux
 The style file: plain.bst
 Database file #1: bibliografia.bib
-You've used 4 entries,
+Warning--entry type for "simpsonsBrasil" isn't style-file defined
+--line 56 of file bibliografia.bib
+You've used 2 entries,
             2118 wiz_defined-function locations,
-            517 strings with 4500 characters,
-and the built_in function-call counts, 833 in all, are:
-= -- 77
-> -- 28
+            506 strings with 4118 characters,
+and the built_in function-call counts, 430 in all, are:
+= -- 35
+> -- 14
 < -- 0
-+ -- 13
-- -- 8
-* -- 34
-:= -- 156
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 13
++ -- 7
+- -- 4
+* -- 15
+:= -- 78
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 7
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 40
-empty$ -- 76
-format.name$ -- 8
-if$ -- 168
+cite$ -- 2
+duplicate$ -- 19
+empty$ -- 45
+format.name$ -- 4
+if$ -- 89
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 23
-num.names$ -- 8
-pop$ -- 24
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 12
+num.names$ -- 4
+pop$ -- 16
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 6
 quote$ -- 0
-skip$ -- 23
+skip$ -- 16
 stack$ -- 0
-substring$ -- 21
-swap$ -- 6
+substring$ -- 11
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
+type$ -- 6
 warning$ -- 0
-while$ -- 8
-width$ -- 5
-write$ -- 40
+while$ -- 4
+width$ -- 3
+write$ -- 19
+(There was 1 warning)
