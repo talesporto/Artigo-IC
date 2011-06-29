@@ -1,46 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2010)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: bin/artigo.aux
 The style file: plain.bst
 Database file #1: bibliografia.bib
-You've used 4 entries,
+Warning--entry type for "simpsonsBrasil" isn't style-file defined
+--line 56 of file bibliografia.bib
+You've used 1 entry,
             2118 wiz_defined-function locations,
-            517 strings with 4500 characters,
-and the built_in function-call counts, 833 in all, are:
-= -- 77
-> -- 28
+            501 strings with 4058 characters,
+and the built_in function-call counts, 215 in all, are:
+= -- 16
+> -- 7
 < -- 0
-+ -- 13
-- -- 8
-* -- 34
-:= -- 156
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 13
++ -- 4
+- -- 2
+* -- 7
+:= -- 40
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 40
-empty$ -- 76
-format.name$ -- 8
-if$ -- 168
+cite$ -- 1
+duplicate$ -- 7
+empty$ -- 23
+format.name$ -- 2
+if$ -- 43
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 23
-num.names$ -- 8
-pop$ -- 24
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 7
+num.names$ -- 2
+pop$ -- 8
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 3
 quote$ -- 0
-skip$ -- 23
+skip$ -- 10
 stack$ -- 0
-substring$ -- 21
-swap$ -- 6
+substring$ -- 6
+swap$ -- 1
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
+type$ -- 4
 warning$ -- 0
-while$ -- 8
-width$ -- 5
-write$ -- 40
+while$ -- 2
+width$ -- 2
+write$ -- 9
+(There was 1 warning)
